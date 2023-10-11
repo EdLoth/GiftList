@@ -32,7 +32,7 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           urlImg: "https://media.graphassets.com/aHR8scYkRM2rrHFU2IHJ",
           link: "https://www.amazon.com.br/Cesto-Rattan-Basculada-Litros-Arqplast/dp/B092W7VMMC/ref=asc_df_B092W7VMMC/?tag=googleshopp00-20&linkCode=df0&hvadid=379714756962&hvpos=&hvnetw=g&hvrand=6880877504163602799&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-1503542379319&th=1",
           price: 38,
-          isSelected: false
+          isSelected: true
         },
         {
           id: 25,
