@@ -10,14 +10,14 @@ export interface TypesGetPresentsResponse {
 
 export const data: { GetPresents: TypesGetPresentsResponse[] } = {
       GetPresents: [
-        {
-          id: 1,
-          name: "Kit Tapete para Banheiro 3 Peças",
-          urlImg: "https://media.graphassets.com/vnZrw23RIaAEHFV2Vg4g",
-          link: "https://shopee.com.br/Kit-Tapete-para-Banheiro-3-Pe%C3%A7as-Antiderrapante-Jogo-Banheiro-i.449765618.18871172424?sp_atk=8368042b-b0c2-4ce0-81a3-a57555c62798&xptdk=8368042b-b0c2-4ce0-81a3-a57555c62798",
-          price: 23,
-          isSelected: false
-        },
+        // {
+        //   id: 1,
+        //   name: "Kit Tapete para Banheiro 3 Peças",
+        //   urlImg: "https://media.graphassets.com/vnZrw23RIaAEHFV2Vg4g",
+        //   link: "https://shopee.com.br/Kit-Tapete-para-Banheiro-3-Pe%C3%A7as-Antiderrapante-Jogo-Banheiro-i.449765618.18871172424?sp_atk=8368042b-b0c2-4ce0-81a3-a57555c62798&xptdk=8368042b-b0c2-4ce0-81a3-a57555c62798",
+        //   price: 23,
+        //   isSelected: false
+        // }, Talia
         {
           id: 2,
           name: "Kit 10 Panos de Prato Simples",
@@ -33,15 +33,15 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
         //   link: "https://www.amazon.com.br/Cesto-Rattan-Basculada-Litros-Arqplast/dp/B092W7VMMC/ref=asc_df_B092W7VMMC/?tag=googleshopp00-20&linkCode=df0&hvadid=379714756962&hvpos=&hvnetw=g&hvrand=6880877504163602799&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-1503542379319&th=1",
         //   price: 38,
         //   isSelected: true
-        // },
-        {
-          id: 25,
-          name: "Kit Porta Mantimentos C/ 5 Peças",
-          urlImg: "https://media.graphassets.com/oDip6WyNSGKyh6j7DViW",
-          link: "https://shopee.com.br/product/399148163/9178527229?utm_campaign=-&utm_content=----&utm_medium=affiliates&utm_source=an_18356360133&utm_term=9zafg28st1j5",
-          price: 49,
-          isSelected: false
-        },
+        // }, Rafael
+        // {
+        //   id: 25,
+        //   name: "Kit Porta Mantimentos C/ 5 Peças",
+        //   urlImg: "https://media.graphassets.com/oDip6WyNSGKyh6j7DViW",
+        //   link: "https://shopee.com.br/product/399148163/9178527229?utm_campaign=-&utm_content=----&utm_medium=affiliates&utm_source=an_18356360133&utm_term=9zafg28st1j5",
+        //   price: 49,
+        //   isSelected: false
+        // }, junior
         {
           id: 16,
           name: "Pix",
@@ -233,7 +233,7 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
         //   link: "https://www.carrefour.com.br/micro-ondas-philco-flat-pmo28tf-28l-preto-110v-6677428/p",
         //   price: 669,
         //   isSelected: true
-        // }
+        // } Tia neide
         
       ]
     }
