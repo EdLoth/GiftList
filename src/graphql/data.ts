@@ -208,7 +208,7 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           urlImg: "https://media.graphassets.com/SlvsfxUBQGWDPws5yI6w",
           link: "https://www.carrefour.com.br/micro-ondas-philco-flat-pmo28tf-28l-preto-110v-6677428/p",
           price: 669,
-          isSelected: false
+          isSelected: true
         }
       ]
     }
