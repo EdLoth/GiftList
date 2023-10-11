@@ -59,6 +59,22 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           isSelected: false
         },
         {
+          id: 26,
+          name: 'Jogo de cama casal 4 peças',
+          urlImg: 'https://media.graphassets.com/NQNGEIZUT33LfyEqAqOZ',
+          price: 60,
+          link: 'https://www.riachuelo.com.br/jogo-de-cama-casal-4-pecas-microfibra-norah-geometrica-cinza-casa-riachuelo-15068048001_sku',
+          isSelected: false
+        },
+        {
+          id: 27,
+          name: 'Kit 4 Toalhas Banho',
+          urlImg: 'https://media.graphassets.com/BginiktROq4ELYeQ7CQA',
+          price: 63,
+          link: 'https://www.magazineluiza.com.br/kit-4-toalhas-banho-100-algodao-salao-manicure-academia-spa-68x113cm-marcotex/p/bbb2131a6c/cm/joto/',
+          isSelected: false
+        },
+        {
           id: 4,
           name: "Torre porta temperos + 16 potes",
           urlImg: "https://media.graphassets.com/2W2d0hFdSDuUv6e5QVLB",
@@ -72,6 +88,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           urlImg: "https://media.graphassets.com/loH7lLrMSweRScxaTqeC",
           link: "https://www.amazon.com.br/Jogo-Utens%C3%ADlios-Cozinha-Silicone-Madeira/dp/B09LBL6YSW/ref=asc_df_B09LBL6YSW/?tag=googleshopp00-20&linkCode=df0&hvadid=379699132246&hvpos=&hvnetw=g&hvrand=7163396272496199040&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-1468819631667&psc=1",
           price: 83,
+          isSelected: false
+        },
+        {
+          id: 25,
+          name: 'Kit 06 Peças Queen Com Edredom',
+          urlImg: 'https://media.graphassets.com/6nnHJySTimtqIK5YZUQZ',
+          price: 91,
+          link: 'https://www.americanas.com.br/produto/3044930728/kit-06-pecas-queen-com-edredom-e-lencol-elastico-preto-cinza',
           isSelected: false
         },
         {
@@ -210,5 +234,6 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
         //   price: 669,
         //   isSelected: true
         // }
+        
       ]
     }
