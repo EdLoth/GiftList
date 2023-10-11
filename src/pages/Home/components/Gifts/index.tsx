@@ -1,7 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { BottomCoffes, CardCoffe, CardTop, CartButton, ContentCoffes, HeaderCoffes, SectionCoffesContainer, TitleCoffe, TitlePage, ValueInfos } from "./styles";
 import { FormatValue } from '../../../../data'
-import { QueryGetPresents } from "../../../../graphql/Services/Presents";
 import { BsGiftFill } from 'react-icons/bs'
 import { data } from "../../../../graphql/data";
 
