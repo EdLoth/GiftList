@@ -26,14 +26,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 24,
           isSelected: false
         },
-        {
-          id: 3,
-          name: "Cesto de Roupa 50 Litros",
-          urlImg: "https://media.graphassets.com/aHR8scYkRM2rrHFU2IHJ",
-          link: "https://www.amazon.com.br/Cesto-Rattan-Basculada-Litros-Arqplast/dp/B092W7VMMC/ref=asc_df_B092W7VMMC/?tag=googleshopp00-20&linkCode=df0&hvadid=379714756962&hvpos=&hvnetw=g&hvrand=6880877504163602799&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-1503542379319&th=1",
-          price: 38,
-          isSelected: true
-        },
+        // {
+        //   id: 3,
+        //   name: "Cesto de Roupa 50 Litros",
+        //   urlImg: "https://media.graphassets.com/aHR8scYkRM2rrHFU2IHJ",
+        //   link: "https://www.amazon.com.br/Cesto-Rattan-Basculada-Litros-Arqplast/dp/B092W7VMMC/ref=asc_df_B092W7VMMC/?tag=googleshopp00-20&linkCode=df0&hvadid=379714756962&hvpos=&hvnetw=g&hvrand=6880877504163602799&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-1503542379319&th=1",
+        //   price: 38,
+        //   isSelected: true
+        // },
         {
           id: 25,
           name: "Kit Porta Mantimentos C/ 5 Peças",
@@ -202,13 +202,13 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 410,
           isSelected: false
         },
-        {
-          id: 15,
-          name: "Micro-ondas Philco Flat",
-          urlImg: "https://media.graphassets.com/SlvsfxUBQGWDPws5yI6w",
-          link: "https://www.carrefour.com.br/micro-ondas-philco-flat-pmo28tf-28l-preto-110v-6677428/p",
-          price: 669,
-          isSelected: true
-        }
+        // {
+        //   id: 15,
+        //   name: "Micro-ondas Philco Flat",
+        //   urlImg: "https://media.graphassets.com/SlvsfxUBQGWDPws5yI6w",
+        //   link: "https://www.carrefour.com.br/micro-ondas-philco-flat-pmo28tf-28l-preto-110v-6677428/p",
+        //   price: 669,
+        //   isSelected: true
+        // }
       ]
     }
