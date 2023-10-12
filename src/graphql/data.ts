@@ -58,14 +58,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 60,
           isSelected: false
         },
-        {
-          id: 26,
-          name: 'Jogo de cama casal 4 peças',
-          urlImg: 'https://media.graphassets.com/NQNGEIZUT33LfyEqAqOZ',
-          price: 60,
-          link: 'https://www.riachuelo.com.br/jogo-de-cama-casal-4-pecas-microfibra-norah-geometrica-cinza-casa-riachuelo-15068048001_sku',
-          isSelected: false
-        },
+        // {
+        //   id: 26,
+        //   name: 'Jogo de cama casal 4 peças',
+        //   urlImg: 'https://media.graphassets.com/NQNGEIZUT33LfyEqAqOZ',
+        //   price: 60,
+        //   link: 'https://www.riachuelo.com.br/jogo-de-cama-casal-4-pecas-microfibra-norah-geometrica-cinza-casa-riachuelo-15068048001_sku',
+        //   isSelected: false
+        // }, Vanielle
         {
           id: 27,
           name: 'Kit 4 Toalhas Banho',
