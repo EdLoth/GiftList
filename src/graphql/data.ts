@@ -50,14 +50,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 60,
           isSelected: false
         },
-        {
-          id: 24,
-          name: "Kit Parafusadeira/furadeira 45 pcs",
-          urlImg: "https://media.graphassets.com/wsHFJdxfRC6yVHo92S2w",
-          link: "https://shopee.com.br/product/446223540/23491162244?utm_campaign=-&utm_content=----&utm_medium=affiliates&utm_source=an_18356360133&utm_term=9zaev7uvbyv7",
-          price: 60,
-          isSelected: false
-        },
+        //{
+         // id: 24,
+         // name: "Kit Parafusadeira/furadeira 45 pcs",
+         // urlImg: "https://media.graphassets.com/wsHFJdxfRC6yVHo92S2w",
+         // link: "https://shopee.com.br/product/446223540/23491162244?utm_campaign=-&utm_content=----&utm_medium=affiliates&utm_source=an_18356360133&utm_term=9zaev7uvbyv7",
+         // price: 60,
+         // isSelected: false
+        //},
         // {
         //   id: 26,
         //   name: 'Jogo de cama casal 4 peças',
