@@ -18,14 +18,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
         //   price: 23,
         //   isSelected: false
         // }, Talia
-        {
-          id: 2,
-          name: "Kit 10 Panos de Prato Simples",
-          urlImg: "https://media.graphassets.com/Ga0WKEPfRwmvtM4HEjQS",
-          link: "https://shopee.com.br/kit-10-Panos-de-Prato-Simples-BRANCO-Liso-para-Cozinha-artesanato-e-Decora%C3%A7%C3%A3o-35X60-Otimo-Qualidade-e-Melhor-Custo-Benef%C3%ADcio-Envio-Ja-Pronta-Entrega-Tecido-Lou%C3%A7a-Seca-i.290490184.5186461328?sp_atk=fb274ea7-0089-4c18-88fb-b735ffd91098&xptdk=fb274ea7-0089-4c18-88fb-b735ffd91098",
-          price: 24,
-          isSelected: false
-        },
+        //{
+       //   id: 2,
+        //  name: "Kit 10 Panos de Prato Simples",
+        //  urlImg: "https://media.graphassets.com/Ga0WKEPfRwmvtM4HEjQS",
+        //  link: "https://shopee.com.br/kit-10-Panos-de-Prato-Simples-BRANCO-Liso-para-Cozinha-artesanato-e-Decora%C3%A7%C3%A3o-35X60-Otimo-Qualidade-e-Melhor-Custo-Benef%C3%ADcio-Envio-Ja-Pronta-Entrega-Tecido-Lou%C3%A7a-Seca-i.290490184.5186461328?sp_atk=fb274ea7-0089-4c18-88fb-b735ffd91098&xptdk=fb274ea7-0089-4c18-88fb-b735ffd91098",
+        //  price: 24,
+          //isSelected: false
+       // },
         // {
         //   id: 3,
         //   name: "Cesto de Roupa 50 Litros",
