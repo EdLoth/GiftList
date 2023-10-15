@@ -90,14 +90,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 83,
           isSelected: false
         },
-        {
-          id: 25,
-          name: 'Kit 06 Peças Queen Com Edredom',
-          urlImg: 'https://media.graphassets.com/6nnHJySTimtqIK5YZUQZ',
-          price: 91,
-          link: 'https://www.americanas.com.br/produto/3044930728/kit-06-pecas-queen-com-edredom-e-lencol-elastico-preto-cinza',
-          isSelected: false
-        },
+        //{
+        //  id: 25,
+        //  name: 'Kit 06 Peças Queen Com Edredom',
+        //  urlImg: 'https://media.graphassets.com/6nnHJySTimtqIK5YZUQZ',
+        //  price: 91,
+        //  link: 'https://www.americanas.com.br/produto/3044930728/kit-06-pecas-queen-com-edredom-e-lencol-elastico-preto-cinza',
+        //  isSelected: false
+        //},
         {
           id: 17,
           name: "Pix",
