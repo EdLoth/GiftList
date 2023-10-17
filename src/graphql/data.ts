@@ -130,14 +130,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 135,
           isSelected: false
         },
-        {
-          id: 8,
-          name: "Kit 6 Acessórios De Banheiro",
-          urlImg: "https://media.graphassets.com/GBglsrOQbia6TkP3GrUw",
-          link: "https://shopee.com.br/Kit-6-Acess%C3%B3rios-De-Banheiro-Lavabo-Detalhes-Madeira-i.889924550.20271728876?sp_atk=2622d2e8-070d-46ff-a852-d76cce852de3&xptdk=2622d2e8-070d-46ff-a852-d76cce852de3",
-          price: 135,
-          isSelected: false
-        },
+        //{
+       //   id: 8,
+        //  name: "Kit 6 Acessórios De Banheiro",
+        //  urlImg: "https://media.graphassets.com/GBglsrOQbia6TkP3GrUw",
+        //  link: "https://shopee.com.br/Kit-6-Acess%C3%B3rios-De-Banheiro-Lavabo-Detalhes-Madeira-i.889924550.20271728876?sp_atk=2622d2e8-070d-46ff-a852-d76cce852de3&xptdk=2622d2e8-070d-46ff-a852-d76cce852de3",
+        //  price: 135,
+        //  isSelected: false
+        //},
         {
           id: 18,
           name: "Pix",
