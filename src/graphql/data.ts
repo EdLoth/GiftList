@@ -66,14 +66,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
         //   link: 'https://www.riachuelo.com.br/jogo-de-cama-casal-4-pecas-microfibra-norah-geometrica-cinza-casa-riachuelo-15068048001_sku',
         //   isSelected: false
         // }, Vanielle
-        {
-          id: 27,
-          name: 'Kit 4 Toalhas Banho',
-          urlImg: 'https://media.graphassets.com/BginiktROq4ELYeQ7CQA',
-          price: 63,
-          link: 'https://www.magazineluiza.com.br/kit-4-toalhas-banho-100-algodao-salao-manicure-academia-spa-68x113cm-marcotex/p/bbb2131a6c/cm/joto/',
-          isSelected: false
-        },
+        //{
+        //  id: 27,
+       //   name: 'Kit 4 Toalhas Banho',
+       //   urlImg: 'https://media.graphassets.com/BginiktROq4ELYeQ7CQA',
+        //  price: 63,
+        //  link: 'https://www.magazineluiza.com.br/kit-4-toalhas-banho-100-algodao-salao-manicure-academia-spa-68x113cm-marcotex/p/bbb2131a6c/cm/joto/',
+        //  isSelected: false
+       // },
         {
           id: 4,
           name: "Torre porta temperos + 16 potes",
