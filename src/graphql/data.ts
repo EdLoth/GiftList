@@ -202,14 +202,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 299,
           isSelected: false
         },
-        {
-          id: 12,
-          name: "Conjunto de panelas 13 peças",
-          urlImg: "https://media.graphassets.com/oKQ64TFQ3OP7hsMSxCrf",
-          link: "https://www.amazon.com.br/Conjunto-panelas-pe%C3%A7as-antiadrente-tampa/dp/B0825BX1KH/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=20R0VYLD27D2D&keywords=Jogo+Conjunto+Panelas+Antiaderente+13+Pe%C3%A7as&qid=1696281815&s=kitchen&sprefix=jogo+conjunto+panelas+antiaderente+13+pe%C3%A7as%2Ckitchen%2C474&sr=1-2&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678",
-          price: 303,
-          isSelected: false
-        },
+       // {
+        //  id: 12,
+         // name: "Conjunto de panelas 13 peças",
+        //  urlImg: "https://media.graphassets.com/oKQ64TFQ3OP7hsMSxCrf",
+        //  link: "https://www.amazon.com.br/Conjunto-panelas-pe%C3%A7as-antiadrente-tampa/dp/B0825BX1KH/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=20R0VYLD27D2D&keywords=Jogo+Conjunto+Panelas+Antiaderente+13+Pe%C3%A7as&qid=1696281815&s=kitchen&sprefix=jogo+conjunto+panelas+antiaderente+13+pe%C3%A7as%2Ckitchen%2C474&sr=1-2&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678",
+        //  price: 303,
+        //  isSelected: false
+       // }, Giuseppe
         {
           id: 13,
           name: "Echo Dot 5ª geração",
