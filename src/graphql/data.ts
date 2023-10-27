@@ -170,14 +170,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 189,
           isSelected: false
         },
-        {
-          id: 19,
-          name: "Pix",
-          urlImg: "https://media.graphassets.com/Xj3lRTU2RRiq5lPxIRNi",
-          link: "https://wa.me/5571988495124?text=Ol%C3%A1+gostaria+de+dar+o+meu+presente%2C+selecionei+na+lista+a+chave+pix+no+valor+de+200+reais+ou+superior.",
-          price: 200,
-          isSelected: false
-        },
+        //{
+         // id: 19,
+         // name: "Pix",
+       //   urlImg: "https://media.graphassets.com/Xj3lRTU2RRiq5lPxIRNi",
+         // link: "https://wa.me/5571988495124?text=Ol%C3%A1+gostaria+de+dar+o+meu+presente%2C+selecionei+na+lista+a+chave+pix+no+valor+de+200+reais+ou+superior.",
+          //price: 200,
+          //isSelected: false
+        //},
         {
           id: 10,
           name: "Fogão de Mesa Elétrico",
