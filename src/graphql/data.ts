@@ -146,14 +146,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
           price: 150,
           isSelected: false
         },
-        {
-          id: 20,
-          name: "Vale Gás",
-          urlImg: "https://media.graphassets.com/dFHKLCdJQJaE4K6IIiyo",
-          link: "https://wa.me/5571988495124?text=Ol%C3%A1+gostaria+de+dar+o+meu+presente%2C+selecionei+na+lista+o+vale-gás+no+valor+de+150+reais.",
-          price: 150,
-          isSelected: false
-        },
+      //  {
+       //   id: 20,
+        //  name: "Vale Gás",
+        //  urlImg: "https://media.graphassets.com/dFHKLCdJQJaE4K6IIiyo",
+        //  link: "https://wa.me/5571988495124?text=Ol%C3%A1+gostaria+de+dar+o+meu+presente%2C+selecionei+na+lista+o+vale-gás+no+valor+de+150+reais.",
+        //  price: 150,
+        //  isSelected: false
+        //},
         {
           id: 23,
           name: "Tapete Geométrico Casen",
