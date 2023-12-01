@@ -74,14 +74,14 @@ export const data: { GetPresents: TypesGetPresentsResponse[] } = {
         //  link: 'https://www.magazineluiza.com.br/kit-4-toalhas-banho-100-algodao-salao-manicure-academia-spa-68x113cm-marcotex/p/bbb2131a6c/cm/joto/',
         //  isSelected: false
        // },
-        {
-          id: 4,
-          name: "Torre porta temperos + 16 potes",
-          urlImg: "https://media.graphassets.com/2W2d0hFdSDuUv6e5QVLB",
-          link: "https://www.amazon.com.br/Porta-Tempero-Condimento-Giratorio-Cozinha/dp/B08L5M5V6H/ref=sr_1_3_mod_primary_new?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1H3S8KMURA5SQ&keywords=Pote+de+tempero&qid=1696194553&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=pote+de+tempero%2Ckitchen%2C170&sr=1-3",
-          price: 79,
-          isSelected: false
-        },
+        //{
+        //  id: 4,
+        //  name: "Torre porta temperos + 16 potes",
+        //  urlImg: "https://media.graphassets.com/2W2d0hFdSDuUv6e5QVLB",
+        //  link: "https://www.amazon.com.br/Porta-Tempero-Condimento-Giratorio-Cozinha/dp/B08L5M5V6H/ref=sr_1_3_mod_primary_new?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1H3S8KMURA5SQ&keywords=Pote+de+tempero&qid=1696194553&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=pote+de+tempero%2Ckitchen%2C170&sr=1-3",
+        //  price: 79,
+        //  isSelected: false
+        //},
         {
           id: 5,
           name: "Jogo Utensílios de Cozinha",
